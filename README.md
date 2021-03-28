@@ -13,7 +13,7 @@ You can use the following commands:
 
 You can also move the camera using the mouse.
 
-How to run the game or check how the game was made
+How to check the game's project and/or how to run it
 ---
 
 Here's a [Gist](https://gist.github.com/iVcente/57399cc5265feb140c3a36db03b08eb4) to help you with this.
