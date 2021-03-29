@@ -1,14 +1,18 @@
 # Exploring3D
 A simple Unity game created just to do some experimentations with 3D. It is a first person view and your goal is to simply jump on all platforms and get to the highest one of all. There's a counter on the top left side of the screen that gets updated according to the platorm you are at the moment.
 
+<p align="center">
+<img src="https://media.giphy.com/media/i5v6Jtsnmc06B3qu4x/giphy.gif">
+</p>
+
 How to play the game
 ---
 
 You can use the following commands:
-* `W` : Moves the player forward
-* `A` : Moves the player to the left
-* `S` : Moves the player backward
-* `D` : Moves the player to the right
+* `W` or `↑` : Moves the player forward
+* `A` or `←` : Moves the player to the left
+* `S` or `↓` : Moves the player backward
+* `D` or `→` : Moves the player to the right
 * `Space Bar` : Jump
 
 You can also move the camera using the mouse.
