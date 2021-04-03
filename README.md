@@ -22,7 +22,7 @@ How to check the game's project and/or how to play it
 
 Here's a [Gist](https://gist.github.com/iVcente/57399cc5265feb140c3a36db03b08eb4) to help you with this.
 
-Technologies
+Technologies used
 ---
 * C#
 * Unity (Version: 2018.4.24f1)
